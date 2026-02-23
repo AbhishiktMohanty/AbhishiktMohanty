@@ -33,7 +33,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/abhishikt-mohanty
-- Portfolio: https://abhishiktmohanty.github.io/Resume/ 
+- Portfolio:  https://abhishiktmohanty.github.io/Portfolio/
 
 - GitHub: https://github.com/AbhishiktMohanty  
 
